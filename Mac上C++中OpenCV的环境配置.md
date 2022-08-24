@@ -1,6 +1,6 @@
 # Mac上C++中opencv的环境配置
 ## 安装opencv
-`brew install opencv`
+`brew install opencv`  
 或  
 `git clone (opencv的github链接，-b指定版本分支)`    
 `cd opencv`     
