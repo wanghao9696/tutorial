@@ -19,6 +19,6 @@
 4.把刚才得到的requirments.txt和下载的包复制到离线电脑上
 
 5.在离线电脑上用pip安装下载好的包，执行下面的命令  
-`pip install --no-index --find-links=./packages -r dependency.txt`
+`pip install --no-index --find-links=./packages -r requirments.txt`
 
 >其中`--no-index --find-links=`后面就是我们包所在的文件夹，-r指定的是我们生成的文件
